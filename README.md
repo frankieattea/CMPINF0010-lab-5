@@ -32,4 +32,4 @@ See [CONTRIBUTING.md](https://github.com/maxvp/CMPINF0010-lab-5/blob/master/CONT
 Questions and concerns can be sent to [max.p@pitt.edu](mailto:max.p@pitt.edu).
 
 ## License
-This projet is licensed under the Apache License - see [License.md](https://github.com/maxvp/CMPINF0010-lab-5/blob/master/LICENSE) for more details.
+This projet is licensed under the Apache License - see [LICENSE.md](https://github.com/maxvp/CMPINF0010-lab-5/blob/master/LICENSE) for more details.
